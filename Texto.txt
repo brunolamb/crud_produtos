@@ -1,0 +1,20 @@
+A revisão de PHP consiste em realizar um CRUD de produtos, inicialmente em memória, sem interface gráfica. Trabalhe preferencialmente com orientação a objetos. Para testar a aplicação, utilize as funções var_dump ou print_r.
+
+Abaixo segue um link para auxiliar o desenvolvimento da aplicação (até Forms):
+
+https://www.w3schools.com/php7/default.asp
+
+Pode ser utilizado o XAMPP, porém, o método mais simples para realizar o teste, pode ser utilizando o Visual Studio Code.
+
+* Existe um método mais simples, através do Visual Studio Code.
+* Criar uma pasta com o projeto
+* Executar comando para poder visualizar o código em tela:
+php -s localhost:8080
+* Criar um arquivo main.php
+
+* Seguir o checklist a seguir:
+1 - Criar a classe produto
+2 - Criar um array de produtos
+3 - Criar as funções (parametrizadas)
+4 - Testar
+
